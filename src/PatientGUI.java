@@ -2,8 +2,6 @@
  * @author Yu Lin CSCI 260 - SPRING 2016 - Patient List Project using GUI
  */
 
-package Patient;
-
 import java.awt.CardLayout;
 import java.awt.EventQueue;
 import java.awt.Font;

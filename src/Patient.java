@@ -2,8 +2,6 @@
  * @author Yu Lin CSCI 260 - SPRING 2016 - Patient List Project using GUI
  */
 
-package Patient;
-
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
