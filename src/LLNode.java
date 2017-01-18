@@ -2,8 +2,6 @@
  * @author Yu Lin CSCI 260 - SPRING 2016 - Patient List Project using GUI
  */
 
-package Patient;
-
 public class LLNode {
 	public LLNode(Patient info) {
 		this.info = info;

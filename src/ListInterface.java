@@ -2,8 +2,6 @@
  * @author Yu Lin CSCI 260 - SPRING 2016 - Patient List Project using GUI
  */
 
-package Patient;
-
 public interface ListInterface {
 	int size();
 
